@@ -7,3 +7,22 @@ div{
     font-family: "Gill Sans Extrabold", Helvetica, sans-serif;
 }
 
+.odd{
+    background-color: lightcoral;
+    font-family: verdana, Arial, sans-serif;
+}
+
+.odd2{
+    font-size: 24px;
+}
+
+#even{
+    color: blue;
+    font-size: 36px;
+}
+
+#even2{
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
