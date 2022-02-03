@@ -26,3 +26,18 @@ div{
     font-size: 24px;
     font-weight: bold;
 }
+
+.element-a{
+    background-color: black;
+    color: white;
+}
+
+.element-b{
+    background-color: yellow;
+}
+
+.element-a,
+.element-b{
+    font-size: 28px;
+    font-family: helvetica, 'Times New Roman', sans-serif;
+}
